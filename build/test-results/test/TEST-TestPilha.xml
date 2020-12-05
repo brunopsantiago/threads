@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestPilha" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-05T01:13:25" hostname="DESKTOP-ONI4MVH" time="0.004">
+  <properties/>
+  <testcase name="pilhaVazia" classname="TestPilha" time="0.004"/>
+  <testcase name="empilhaUmElemento" classname="TestPilha" time="0.0"/>
+  <system-out><![CDATA[pilhaVazia 0
+empilhaUmElemento 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
